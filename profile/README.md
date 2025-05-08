@@ -40,7 +40,7 @@ FuckMeme 是一个专注于 Solana 生态系统的开源团伙。我们的目标
 ### 如何加入
 
 1. 关注我们的 GitHub 组织：[Fuck-Meme](https://github.com/Fuck-Meme)
-2. 参与我们的项目💩山建设
+2. 参与我们的💩山建设
 3. 提交 Pull Request
 4. 参与开车技术讨论
 5. 分享您的想法和经验
